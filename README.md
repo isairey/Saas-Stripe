@@ -80,7 +80,7 @@ pnpm -v
 ## 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/vercel/nextjs-subscription-payments.git
+git clone https://github.com/isairey/nextjs-subscription-payments.git
 ```
 
 Entrar al proyecto:
