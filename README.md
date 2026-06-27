@@ -319,9 +319,9 @@ Navegadores compatibles:
 
 # 👨‍💻 Desarrollador
 
-**Isai Reyes**
+**Isai Reyes - FullStack Developer**
 
-Proyecto basado en la plantilla oficial **Next.js Subscription Payments Starter**, desarrollada por el equipo de Vercel para implementar sistemas de suscripciones utilizando Next.js, Stripe y Supabase.
+Proyecto basado en la plantilla oficial **Next.js Subscription Payments Starter**,  para implementar sistemas de suscripciones utilizando Next.js, Stripe y Supabase.
 
 ---
 
