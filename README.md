@@ -317,7 +317,7 @@ Navegadores compatibles:
 
 ---
 
-# 👨‍💻 Autor
+# 👨‍💻 Desarrollador
 
 Proyecto basado en la plantilla oficial **Next.js Subscription Payments Starter**, desarrollada por el equipo de Vercel para implementar sistemas de suscripciones utilizando Next.js, Stripe y Supabase.
 
