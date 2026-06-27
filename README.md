@@ -86,7 +86,7 @@ git clone https://github.com/isairey/Saas-Stripe.git
 Entrar al proyecto:
 
 ```bash
-cd nextjs-subscription-payments
+cd Saas-Stripe
 ```
 
 ---
