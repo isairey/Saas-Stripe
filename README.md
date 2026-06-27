@@ -39,7 +39,7 @@ Este proyecto proporciona una base sólida para implementar autenticación de us
 # 📁 Estructura del proyecto
 
 ```text
-nextjs-subscription-payments/
+Saas-Stripe/
 │
 ├── app/
 ├── components/
